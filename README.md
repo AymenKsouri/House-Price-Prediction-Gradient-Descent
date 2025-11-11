@@ -45,24 +45,25 @@ The project uses the [Ames Housing Dataset](https://www.kaggle.com/datasets/prev
 ## 📐 Mathematical Background
 
 ### Linear Regression Model:
-\[
+$$
 h_\theta(x) = \theta_0 + \theta_1x_1 + \theta_2x_2 + \dots + \theta_nx_n
-\]
+$$
 
 ### Cost Function (Mean Squared Error):
-\[
+$$
 J(\theta) = \frac{1}{2m} \sum_{i=1}^{m} (h_\theta(x^{(i)}) - y^{(i)})^2
-\]
+$$
 
 ### Gradient Descent Update Rule:
-\[
+$$
 \theta_j := \theta_j - \alpha \frac{1}{m} \sum_{i=1}^{m} (h_\theta(x^{(i)}) - y^{(i)})x_j^{(i)}
-\]
+$$
 
 With **L2 Regularization (Ridge)**:
-\[
+$$
 J_{reg}(\theta) = J(\theta) + \frac{\lambda}{2m} \sum_{j=1}^{n} \theta_j^2
-\]
+$$
+
 
 ---
 

@@ -60,6 +60,7 @@ $$
 $$
 
 With **L2 Regularization (Ridge)**:
+
 $$
 J_{reg}(\theta) = J(\theta) + \frac{\lambda}{2m} \sum_{j=1}^{n} \theta_j^2
 $$

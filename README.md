@@ -136,7 +136,7 @@ jupyter notebook house_price_notebook.ipynb
 ```
 ---
 
-##🙌 Acknowledgment
+## 🙌 Acknowledgment
 
 This project was completed after finishing the Supervised Machine Learning: Regression and Classification
  course by Andrew Ng on Coursera (Stanford University).
@@ -144,6 +144,6 @@ This project was completed after finishing the Supervised Machine Learning: Regr
 Special thanks to the Ames Housing dataset contributors and the open-source community for tools and inspiration.
 
 ---
-##📬 Connect
-📧 Author: Aymen Ksouri
-💼 GitHub: github.com/AymenKsouri
+## 📬 Connect
+**📧 Author:** Aymen Ksouri
+**💼 GitHub:** github.com/AymenKsouri
